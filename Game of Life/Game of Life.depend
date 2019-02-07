@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1549540927 source:c:\users\daniel\documents\codeblocks\game of life\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
